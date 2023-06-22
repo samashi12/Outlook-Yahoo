@@ -19,13 +19,13 @@
 	  
       "web Activity Banner": ".",
 	  
-      "clicks to stop showing banner ad": 2,
+      "clicks to stop showing banner ad": 1,
       "time unit banner": "hour",
-      "time banner": 12,
+      "time banner": 24,
 	  
-      "clicks to stop showing native ad": 2,
+      "clicks to stop showing native ad": 1,
       "time unit native": "hour",
-      "time native": 12,
+      "time native": 24,
 	
 	 
 	 "show web view 1": true,	 
