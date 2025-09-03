@@ -1,7 +1,7 @@
 {
-  "admobInterstitial": "1",
-  "admobNative": "1",
-  "admobBanner": "1",
+  "admobInterstitial": "ca-app-pub-6902585794787330/3742283049",
+  "admobNative": "ca-app-pub-6902585794787330/1157071240",
+  "admobBanner": "ca-app-pub-6902585794787330/4263606348",
   "clicksToShowInter": 3,
   "maxBannerClicks": 1,
   "hideBannerMinutes": 720,
